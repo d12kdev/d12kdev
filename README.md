@@ -1,6 +1,6 @@
 ### Unity weeee 😳
 
-![alt :o] (https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f633/u1f633_u1f633.png?fbx)
+![alt text](https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f633/u1f633_u1f633.png?fbx)
 <!--
 **d12kdev/d12kdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
