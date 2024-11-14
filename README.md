@@ -1,9 +1,6 @@
-### Unity weeee 😳
+### Idk what to put here
 
-![MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=d12kdev&layout=compact&lang_count=5&theme=transparent)
-
-![🫣](https://github-readme-stats.vercel.app/api?username=d12kdev&show_icons=true&theme=transparent)
-# 🫣
+![MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=d12kdev&layout=compact&lang_count=5&theme=dark)
 <!--
 **d12kdev/d12kdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
